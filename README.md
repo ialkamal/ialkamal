@@ -5,7 +5,7 @@ ___
 * ⚡ I've been working on asset management and tracking solutions since 2010
 * ⚡ Love Tech eduction and am really passionate about continuous learning and teaching
 * ⚡ Enjoy coding, solving challenges and developing algorithms
-* ⚡ I'm a founder of Nawatt, a great startup in the Middle East
+* ⚡ I'm founder of <a href="https://nawatt.com" target="_blank">Nawatt</a>, a great startup in the Middle East
 
 <!--
 **ialkamal/ialkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
