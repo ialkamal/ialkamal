@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Connect with Me
 ___
-<a href="https://www.ismailalkamal.com/"> <img src="https://www.flaticon.com/svg/vstatic/svg/1946/1946436.svg?token=exp=1618617608~hmac=81c56a94863b49c267d6d924d9461eee" width="50" height="30" /></a>
-<a href="https://twitter.com/ialkamal"> <img src="https://www.flaticon.com/svg/vstatic/svg/733/733635.svg?token=exp=1618616267~hmac=f530525d0e10680a7b79cb1938b24b1b" width="50" height="30" /></a>
+<a href="https://www.ismailalkamal.com/"><img src="https://www.flaticon.com/svg/vstatic/svg/1946/1946436.svg?token=exp=1618617608~hmac=81c56a94863b49c267d6d924d9461eee" width="50" height="30" /></a>
+<a href="https://twitter.com/ialkamal"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733635.svg?token=exp=1618616267~hmac=f530525d0e10680a7b79cb1938b24b1b" width="50" height="30" /></a>
 <a href="https://www.linkedin.com/in/ismailalkamal/"><img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1618617324~hmac=8bc2ce9306983d5703079dfed385ce45" width="50" height="30" /></a>
-<a href="https://medium.com/@ialkamal"> <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111543.svg?token=exp=1618617480~hmac=470e53277f7e4e3ec35c8d9c95b6376a" width="50" height="30" /></a>
-<a href="https://www.youtube.com/channel/UCPX35X_QOfWKyUYy9j208cg"> <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384012.svg?token=exp=1618617337~hmac=0b263a483112e924260d331c26530a88" width="50" height="30" /></a>
+<a href="https://medium.com/@ialkamal"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111543.svg?token=exp=1618617480~hmac=470e53277f7e4e3ec35c8d9c95b6376a" width="50" height="30" /></a>
+<a href="https://www.youtube.com/channel/UCPX35X_QOfWKyUYy9j208cg"><img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384012.svg?token=exp=1618617337~hmac=0b263a483112e924260d331c26530a88" width="50" height="30" /></a>
 
 ### Tools & Technologies
 ___
