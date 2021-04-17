@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Connect with Me
 ___
-<a href="https://www.ismailalkamal.com/"><img src="./home.svg" width='50' height="30" /></a>
+<a href="https://www.ismailalkamal.com/"><img src="./home.svg" width='50' height="30" style="background-color:'white'"/></a>
 <a href="https://twitter.com/ialkamal"><img src="./twitter.svg" width="50" height="30" /></a>
 <a href="https://www.linkedin.com/in/ismailalkamal/"><img src="./linkedin.svg" width="50" height="30" /></a>
 <a href="https://medium.com/@ialkamal"><img src="./medium.svg" width="50" height="30" /></a>
