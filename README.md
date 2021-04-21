@@ -30,7 +30,7 @@ ___
 <a href="https://twitter.com/ialkamal"><img src="./twitter.svg" width="50" height="30" /></a>
 <a href="https://www.linkedin.com/in/ismailalkamal/"><img src="./linkedin.svg" width="50" height="30" /></a>
 <a href="https://medium.com/@ialkamal"><img src="./medium.svg" width="50" height="30" /></a>
-<a href="https://www.youtube.com/channel/UCPX35X_QOfWKyUYy9j208cg"><img src="./youtube.svg" width="50" height="30" /></a>
+<a href="https://www.youtube.com/channel/UCARLLCT9zEWTVJespFNWi0Q"><img src="./youtube.svg" width="50" height="30" /></a>
 
 ### Tools & Technologies
 ___
