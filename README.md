@@ -35,7 +35,3 @@ ___
 ### Tools & Technologies
 ___
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=HTML5&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/Tool-VS%20Code-informational?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat-square&logo=SQLite&logoColor=white&color=1b75bb) ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=1b75bb)
-
-### Github Stats
-___
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialkamal&count_private=true&show_icons=true&theme=algolia)
